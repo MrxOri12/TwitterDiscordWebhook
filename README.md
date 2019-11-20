@@ -8,6 +8,8 @@ This Script Sync Twt To Discord With Webhook
 
 First Download xoritwt (https://github.com/MrxOri12)
 
+Choose Your Language Hebrew/English
+
 Add "start xoritwt" to your server.cfg
 
 If you wish to use Discord Webhook

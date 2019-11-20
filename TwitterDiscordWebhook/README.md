@@ -2,8 +2,6 @@
 Simple Script
 This Script Sync Twt To Discord With Webhook
 
-
-
 ##How Install##
 
 First Download xoritwt (https://github.com/MrxOri12)
@@ -15,7 +13,6 @@ If you wish to use Discord Webhook
 Add your webhook in Server.lua
 
 if u want change (/xori Text) Change In Server.lua
-
 
 ##How Setup Webhook##
 

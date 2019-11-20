@@ -1,4 +1,4 @@
-## Made By xOri##
+This Script Made By xOri
 Simple Script
 This Script Sync Twt To Discord With Webhook
 

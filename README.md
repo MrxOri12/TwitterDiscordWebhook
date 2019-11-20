@@ -14,6 +14,8 @@ If you wish to use Discord Webhook
 
 Add your webhook in Server.lua
 
+if u want type in twt say in chat /xori Text
+
 if u want change (/xori Text) Change In Server.lua
 
 

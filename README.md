@@ -31,4 +31,4 @@ Webhook
 Choose Your Channel & Choose Webhook Name 
 Copy The WEBHOOK URL AND Add This in Server.lua
 
-
+Full Credit : https://github.com/ESX-Org/esx_rpchat
